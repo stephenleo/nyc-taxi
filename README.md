@@ -1,11 +1,12 @@
-New York Taxi Dataset Analysis
-This repo is attempting to use New York Taxi Dataset from Google's Big Query to derive some insights.
-All notebooks are using Anaconda Python2
+# New York Taxi Dataset Analysis:
+- This repo is attempting to use New York Taxi Dataset from Google's Big Query to derive some insights.
+- All notebooks are using Anaconda Python2
 
-Instructions:
+## Instructions:
 1. git clone https://github.com/stephenleo87/nyc-taxi.git
 2. pip install -r requirements.txt
 
+## Details:
 There are 4 Jupyter Notebooks in this repo
 
 1. [01_SQL Query.ipynb](https://github.com/stephenleo87/nyc-taxi/blob/master/01_SQL%20Query.ipynb)
