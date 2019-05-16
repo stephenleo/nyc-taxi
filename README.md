@@ -2,6 +2,8 @@
 - This repo is attempting to use New York Taxi Dataset from Google's Big Query to derive some insights.
 - All notebooks are using Anaconda Python2
 
+## Summary Report of findings: [Summary_Report.pdf](https://github.com/stephenleo87/nyc-taxi/blob/master/Summary_Report.pdf)
+
 ## Instructions:
 1. git clone https://github.com/stephenleo87/nyc-taxi.git
 2. pip install -r requirements.txt
